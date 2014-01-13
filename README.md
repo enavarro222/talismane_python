@@ -8,6 +8,7 @@ Usage
 =====
 
 Command line test:
+
     $ ./talismane.py -t "/PATH_TO_TALISMANE_JAR/talismane-fr-1.7.4b-allDeps.jar" 
     2014-01-13 11:27:15,314:INFO:Talismane:Started Talismane from command: 'java -Xmx1G -jar /home/navarro/install/talismane/talismane-fr-1.7.4b-allDeps.jar command=analyse'
     --1--
