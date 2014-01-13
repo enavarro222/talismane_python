@@ -4,8 +4,13 @@ talismane_python
 Simple python wrapper for Talismane
 
 
+Install
+-------
+
+    $ wget https://raw.github.com/enavarro222/talismane_python/master/talismane.py
+
 Usage
-=====
+-----
 
 Command line test:
 
@@ -66,7 +71,7 @@ Out[3]:
 
 
 TODO
-====
+----
 
 * create a "setup.py"
 
