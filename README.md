@@ -1,7 +1,7 @@
 talismane_python
 ================
 
-Simple python wrapper for Talismane
+Simple python wrapper for Talismane (cf http://redac.univ-tlse2.fr/applications/talismane.html)
 
 
 Install
